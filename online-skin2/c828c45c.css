@@ -1,0 +1,517 @@
+.max{width:100%;clear:both}.blue{background-color:#b7e7f7;padding-bottom:15px}#front-page-top{padding-bottom:15px;width:960px;margin:0
+auto}#header{}#header
+h1#logo{float:left;background:url() no-repeat top left;width:390px;height:57px}#header h1#logo
+a{width:180px;height:30px;text-indent:-9999em;float:left}#header h1#logo
+span{color:#b8a577;float:left;font-size:10px;margin:23px
+0 0 -130px;display:inline;font-family:Tahoma,Arial,Helvetica,sans-serif;font-weight:400}#header
+iframe{width:195px;margin-top:3px;float:left;display:inline;margin-right:20px}#header
+#rss{float:right;width:550px;height:57px;color:#b8a577}#header #rss
+small{padding-top:17px;line-height:12px}#header #rss
+a{color:#ffde00}#header #rss a:hover{color:#d82b03}#header #rss
+h3{padding:10px
+10px 10px 30px;font-size:26px}#header #rss h3
+a{color:#ccc;display:inline;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/rss.jpg) no-repeat top left;padding:10px
+0 0 23px;float:left;margin-top:-10px}#header #rss h3.right a
+img{border:0;margin-top:-2px}#header #rss h3.right a:hover{color:#fff;text-decoration:none}#TwitterCounter{float:right;width:100px}#header
+#status{width:255px;padding-left:25px}#header #status .status-dia{padding:10px;background:#fff url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/gra.gif) repeat-x top left;border:1px
+solid #77bfd8}#header #status .status-bottom{float:left;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/status-comment.png) no-repeat top left;width:46px;height:26px;display:inline;margin:-1px 0 0 20px}#header #status
+img{border:0;padding:0;display:inline;margin-top:-15px;position:relative}#header #status
+h3{font-style:italic;line-height:24px;font-size:16px}#header #status
+small{font-size:9px;font-family:Arial,Helvetica,sans-serif}#nav{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/navi-bg.jpg) repeat-x top left;float:left;width:100%;border-top:1px solid #aa530c;height:53px}#nav
+ul{list-style:none}#nav ul
+li{float:left;text-transform:uppercase;position:relative;margin:3px
+10px 0 0;display:inline;font-size:11px}#nav ul li
+a{text-decoration:none;float:left;color:#7b3a06;padding:1px
+10px 0 0}#nav ul li a:hover{color:#d82b03}#nav ul li a
+span{float:left;padding-right:15px;display:block;margin-top:-1px;height:24px}#nav ul li
+a.current{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/nav-select.jpg) no-repeat top right;color:#000}#nav ul li a.current
+span{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/nav-select.jpg) no-repeat top left}#nav
+#breadcrumb{clear:left;font-size:9px;padding:5px
+0 0 30px;color:#666;font-family:Tahoma,Arial,Helvetica,sans-serif}#nav #breadcrumb
+em{font-style:normal;padding:0
+3px}.sf-menu, .sf-menu
+*{margin:0;padding:0;list-style:none}.sf-menu
+ul{position:absolute;top:-999em;width:12em;padding:10px;margin:23px
+0 0;background-color:#111;-webkit-box-shadow:0 1px 2px rgba(0,0,0,0.2)}.sf-menu ul
+li{width:100%}.sf-menu li:hover{visibility:inherit}.sf-menu
+li{float:left;position:relative}.sf-menu
+a{display:block;position:relative;color:#fff}.sf-menu li:hover ul,
+.sf-menu li.sfHover
+ul{left:0;top:2.4em;z-index:99}ul.sf-menu li:hover li ul,
+ul.sf-menu li.sfHover li
+ul{top:-999em}ul.sf-menu li li:hover ul,
+ul.sf-menu li li.sfHover
+ul{left:12em;top:-0.1em}ul.sf-menu li li:hover li ul,
+ul.sf-menu li li.sfHover li
+ul{top:-999em}ul.sf-menu li li li:hover ul,
+ul.sf-menu li li li.sfHover
+ul{left:12em;top:-0.1em}#nav ul.sf-menu
+ul{padding:0}#nav ul.sf-menu ul
+li{padding:0;margin:0}#nav ul.sf-menu ul li
+a{color:#999;float:none;padding:5px
+12px;border-bottom:1px solid #222;-webkit-transition:all .3s linear}#nav ul.sf-menu ul li a:hover{color:#fff;background-color:#000}.sf-menu{margin:10px
+0 0}.sf-menu
+a{padding:10px
+20px;text-decoration:none}.sf-menu ul
+a{text-transform:none;border-left:none;padding:10px;font-weight:400;padding:10px}.sf-menu a.sf-with-ul{padding-right:2.25em;min-width:1px}.sf-sub-indicator{position:absolute;display:block;right:.75em;top:1.05em;width:10px;height:10px;text-indent:-999em;overflow:hidden}a>.sf-sub-indicator{top: .8em;background-position:-10px -100px}a:focus>.sf-sub-indicator,a:hover>.sf-sub-indicator,a:active>.sf-sub-indicator,li:hover>a>.sf-sub-indicator,li.sfHover>a>f-sub-indicator{background-position:0 -100px}.sf-menu ul .sf-sub-indicator{background-position:-10px 0}.sf-menu ul a>.sf-sub-indicator{background-position:0 0}.sf-menu ul a:focus > .sf-sub-indicator, .sf-menu ul a:hover > .sf-sub-indicator, .sf-menu ul a:active > .sf-sub-indicator,	.sf-menu ul li:hover > a > .sf-sub-indicator,.sf-menu ul li.sfHover>a>.sf-sub-indicator{background-position:-10px 0}#content{}#content #front-left-col{width:440px;padding:20px
+15px 0 0}#content
+#recent{width:440px;padding-top:15px}#content #recent
+h4{padding:5px
+0}#content #recent
+.post{width:440px;padding:15px
+0 40px;border-bottom:1px solid #e7e7e7}#content #recent .post
+.thumb{width:90px}#content #recent .post .thumb a
+img{padding:4px}#content #recent .post .post-excerpt{}#content #recent .post .post-excerpt h2
+a{font-size:22px;line-height:26px;letter-spacing:-1px}#content #recent .post .post-excerpt h2 a:hover{text-decoration:none}#content #recent .post .post-excerpt
+small.meta{margin:0
+0 10px;float:left;font-size:10px}#content #recent .post .post-excerpt
+p{clear:left;padding:0}#content #recent .post .post-excerpt .comment-cloud{float:right;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/comment-cloud.jpg) no-repeat top left;width:53px;height:24px;text-align:center;padding-top:7px;font:11px Georgia, "Times New Roman", Times, serif}#content
+#wdnews{width:225px;margin-top:-1px;line-height:12px}#content #wdnews #wdn-header{width:157px;padding:10px
+10px 10px 56px;border:1px
+solid #ccc;background:#e1e1e1 url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/coffee_mug.png) no-repeat center left}#content #wdnews
+h4{padding-bottom:5px}#content #wdnews
+ul{list-style:none;border:1px
+solid #ccc;background-color:#f5f5f5;border-bottom:0;border-top:0;width:223px}#content #wdnews ul
+li{padding:15px;line-height:18px;font-size:11px;color:#666;border-bottom:1px solid #ccc;width:193px}#content #wdnews ul li:hover{background-color:#fff}#content #wdnews ul li
+a{font-size:12px}#content #wdnews ul li
+p{padding:10px
+0 0 0}#content #gallery #gallery-header{padding:10px
+10px 10px 56px;border:1px
+solid #ccc;background:#e1e1e1 url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/image.png) no-repeat center left;width:157px}#gallery{margin-top:20px;width:225px}.overflow{border:1px
+solid #ccc;background-color:#f1f1f1;padding-bottom:15px;float:left;width:223px;margin-top:-1px;text-align:center}.overflow a
+img{margin:5px
+auto;background-color:#fff}#content #wdnews
+a#more{float:right;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/more.png) no-repeat top left;width:57px;height:24px;text-indent:-99999em;display:inline;margin:-10px 10px 0 0}#content #wdnews a#submit-news{float:right;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/submit.png) no-repeat top left;width:57px;height:24px;text-indent:-99999em;display:inline;margin:-10px 15px 0 0}#content #wdnews
+a#rss2{float:right;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/rss2.png) no-repeat top left;width:57px;height:24px;text-indent:-99999em;display:inline;margin:-10px 15px 0 0}#sidebar{padding:10px
+0 20px 10px;width:270px}#sidebar3{padding:10px
+0 0 0;width:270px}#sidebar3 .side-section{width:270px;padding:0
+4px;margin-bottom:15px}.side-section{width:270px;padding:0
+0 30px 0}.side-section a
+img{padding:0;border:0;float:left;margin:0
+5px 10px;display:inline}.side-section .side-header{padding:0
+0 15px 60px;line-height:11px}.side-section .side-header
+h4{padding-bottom:3px;color:#434343;font-size:18px;letter-spacing:-1px;line-height:18px}.side-section
+input{border:0;padding:4px;float:left}.side-section
+input#s{width:113px}.side-section
+form{border:1px
+solid #ccc}.side-section
+input#searchbutton{width:62px;height:22px;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/searchbutton.png) no-repeat top left}#pool a
+img{padding:2px;border:1px
+solid #ccc;margin:0
+0 4px 7px}#pool
+em{font-style:normal;padding-left:10px;float:left;width:260px;padding-bottom:10px}#pool a:hover
+img{border:1px
+solid #000}#flickr
+strong{color:#117ac0}#flickr
+em{color:#ed1e79;font-style:normal}#twitter-update{float:left;width:260px;padding-left:5px}#twitter-top{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/twitter-top.png) no-repeat top left;width:260px;height:24px}#twitter-bottom{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/twitter-bottom.png) no-repeat bottom left;width:245px;height:23px;padding:7px
+0 0 15px}.twitter-content{border-left:1px solid #65a5d2;border-right:1px solid #65a5d2;display:inline;background-color:#e1f3ff;width:258px;font-size:10px;line-height:16px}.twitter-content
+ul{list-style:none;padding:0
+15px}.twitter-content ul
+li{border-bottom:1px solid #aed5ef;padding:5px
+0}#twitter-bottom
+small{color:#333}#search{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/search.png) no-repeat top left}#flickr{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/flickr.png) no-repeat top left}#twitter{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/twitter.png) no-repeat top left}#mouse{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/mouse.png) no-repeat top left}#sidebar2{height:100%;padding:0
+0 20px 0;width:278px;background-color:#e5e5e5;border:1px
+solid #B8BABB;border-top:0;margin-top:-1px}#sidebar2 .side-section{width:270px;padding:15px
+4px;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/border_sidebar.gif) repeat-x top left}#sidebar2 .side-section .side-header{padding:0
+25px 15px 60px;line-height:11px}#sidebar2 #bsap_1503 a
+img{float:left;display:inline;margin:0}#sidebar2 #bsap_1503
+a{float:left;display:inline;margin:5px}#upper-footer{background:#44403c url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/portfolio-bg.gif) repeat-x top left;float:left;margin:30px
+0 0 0;width:100%}#upper-footer #upper-footer-header{width:960px}#upper-footer #upper-footer-header
+#portfolio{width:460px;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/portfolio.jpg) no-repeat top left;height:53px;margin:-18px 0 0 0;position:relative;padding:27px
+0 0 140px}#upper-footer #upper-footer-header a#view-all{float:right;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/view-al-normall.png) no-repeat top left;width:106px;height:21px;text-indent:-9999em;margin-top:5px}#upper-footer #upper-footer-header a#view-all:hover{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/view-all.png) no-repeat top left}#upper-footer .portfolio-sum a
+img{background-color:#312f2e;padding:9px;border:1px
+solid #504a46;margin:0
+29px 15px}#upper-footer
+.about{float:left;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/line-break.png) no-repeat top left;padding:10px
+0 20px;margin:10px
+0;width:900px}#upper-footer .about
+h4{color:#a39689;font-size:12px;font-weight:900;font-style:italic}#upper-footer .about h4
+a{text-decoration:underline;color:#fff}#upper-footer .about h4 a:hover{text-decoration:none;color:#000}#footer{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/footer-bg.gif) repeat-x top left;float:left;width:100%;height:44px;border-top:1px solid #1a1919}#footer
+.credit{padding:15px
+0 0 0;color:#b4aca9}#footer
+.badge{float:right;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/lady.jpg) no-repeat top right;padding:60px
+100px 0 0;margin-top:-54px;position:relative}#footer .badge a
+img{padding:0;border:0}#page{width:640px;padding:35px
+40px 0 0}#page
+.meta{margin-bottom:20px;font-size:10px;display:block;margin-bottom:20px;padding-bottom:20px;border-bottom:1px solid #e2e2e2}#page
+.social{width:660px;float:right}#page
+#subscribes{font-size:11px;color:#666;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/subscribe.png) no-repeat top left;float:left;width:540px;height:130px;padding:0
+0 0 120px;margin:35px
+0 10px}#page #subscribes
+h3{border-bottom:0;padding:15px
+0 0 0;font:30px Georgia, "Times New Roman", Times, serif;letter-spacing:-1px;font-style:italic;margin:0}#page #subscribes h3
+a{color:#318bc5}#page #subscribes h3 a:hover{color:#000;text-decoration:none}#page .social
+a{color:#666;float:right;width:53px;margin:-41px 15px 0 0;display:inline;position:relative;height:53px;font-size:10px;text-indent:-9999em}#page .social a
+h4{padding-top:12px;font-weight:900;font-size:14px;color:#333;padding-bottom:0}#page .social a:hover{text-decoration:none;color:#333}#page .social
+#stumble{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/stumble.png) no-repeat top left}#page .social
+#delicious{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/delicious.png) no-repeat top left}#page .social
+#dfloat{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/designfloat.png) no-repeat top left}#page
+.related{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/bg2.gif) repeat-x top left;width:660px;margin:30px
+0}#page .related #related-title{margin:-35px 30px 0 0;position:relative;float:left;font-size:10px;color:#666;height:48px}#page .related #related-title
+h4{padding-top:2px;font-weight:900;color:#333;font-style:normal;padding:0}#page .related
+ul{float:left;width:410px;padding-left:15px;list-style:none}#page .related ul
+li{padding-bottom:2px}#page .related ul li
+a{color:#333}#page .related ul li a:hover{color:#000}#page .related .related-ad{float:left;width:200px;background-color:#f1f1f1;border:1px
+solid #ccc;padding:4px}#page .related .related-ad a img, #page .related .related-ad
+img{border:0;padding:0}#page
+#respond2{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/comment-bg.gif) repeat-x top left;width:660px;margin:30px
+0 50px}#page #respond2 #comment-title{margin:-15px 0 0 0;position:relative;float:left;font-size:10px;color:#666;height:42px;width:660px;display:inline}#page #respond2 #comment-title
+h4{margin-top:-6px;font-weight:900;color:#333;font-style:normal;padding:0}#page #respond2 #comment-title
+a#add{float:right;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/add.png) no-repeat top left;width:32px;height:20px;padding:0
+0 0 25px;color:#666;margin:5px
+0 0 0}#page #respond2 #comment-title a#add:hover{text-decoration:none;color:#000}#page .commentlist #respond #reply-title{display:none}#page .commentlist
+#respond{background-color:#fff;border:1px
+solid #ccc;border-top:0;float:right;margin-top:10px;width:400px}#page .commentlist #respond
+form{width:350px}#page .commentlist #respond form
+textarea{width:338px}#page .commentlist #respond form #submit-comment{margin-bottom:10px}#page .commentlist #respond .cancel-comment-reply{padding:4px
+25px;border-bottom:1px solid #ccc;text-transform:uppercase}#page #respond2 ul
+li{border-top:1px solid #ccc;background-color:#f1f1f1;border-bottom:1px solid #fff}#page #respond2 ul ul
+li{border-top:0;border-bottom:0}#page #respond2
+ul{float:left;width:658px;padding:0}#page #respond2 ul
+li{float:left;width:628px;background-image:none;padding:10px
+15px;display:inline}#page #respond2 ul li
+.ava{float:left;width:70px;font-size:10px}#page #respond2 ul li .ava
+img{padding:0}#page #respond2 ul li .ava
+a{color:#000}#page #respond2 ul li
+.commentdata{background-color:#fff;float:left;width:526px;border:1px
+solid #ccc;padding:15px;border-bottom:0}#page #respond2 ul li.alt
+.commentdata{border:1px
+solid #e1e1e1;border-bottom:0}.stat{border:1px
+solid #e1e1e1;border-top:0}.stat{float:right;width:526px;border:1px
+solid #ccc;padding:2px
+15px;background:#efefef url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/detail.gif) repeat-x top left;height:17px;border-top:0;font-size:9px;color:#666}.stat
+span{float:right}.stat
+em{float:left}#page #respond-web{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/heading-bg.gif) repeat-x top left;width:660px;margin:30px
+0 50px}#page #respond-web #comment-title{margin:-19px 0 0 0;position:relative;float:left;padding:5px
+0 0 0;font-size:10px;color:#666;height:51px;width:660px;display:inline}#page #respond-web #comment-title
+h4{margin-top:-6px;font-weight:900;color:#333;font-style:normal;padding:0}#page #respond-web #comment-title
+a#add{float:right;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/add.png) no-repeat top left;width:32px;height:20px;padding:0
+0 0 25px;color:#666;margin:5px
+0 0 0}#page
+a#rss3{float:right;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/rss3.png) no-repeat top left;width:32px;height:20px;padding:0
+0 0 25px;color:#666;margin:5px
+10px 0 0}#page #respond #comment-title a#add:hover{text-decoration:none;color:#000}#page #respond-web
+ul{float:left;width:650px;padding:0}#page #respond-web ul
+li{font-style:italic;float:left;color:#666;width:640px}#page #respond-web ul li
+a{color:#333;font-size:13px;font-style:normal}#page #respond-web ul li a:hover{color:#000}.reply
+a{float:right;background:#f7f7f7 url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/comment-bg.gif) repeat-x top left;border:1px
+solid #ccc;padding:3px
+6px;font:400 9px Tahoma, Arial, Helvetica, sans-serif;text-transform:uppercase;border-top:0}.reply a:hover{text-decoration:none}.commentlist{border:1px
+solid #ccc;border-top:0}#page #respond2
+ul.children{padding:0
+0 0 70px;width:558px}#page #respond2 ul.children
+ul{padding:0
+0 0 70px;width:484px}#page #respond2 ul.children
+li{padding:10px
+0}#page #respond2 ul.children li.depth-2{width:558px}#page #respond2 ul.children li.depth-2
+.commentdata{width:456px}#page #respond2 ul.children li.depth-2
+.stat{width:456px}#page #respond2 ul.children ul li.depth-3{width:488px}#page #respond2 ul.children ul li.depth-3
+.commentdata{width:386px}#page #respond2 ul.children ul li.depth-3
+.stat{width:386px}.navigation{float:left;width:658px}#page
+#respond{float:left;margin-top:50px;width:658px;background:#f7f7f7 url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/comment-bg.gif) repeat-x top left}#page #respond #reply-title{margin:-15px 30px 0 0;position:relative;float:left;font-size:10px;color:#666;height:48px;width:568px;display:inline}#page #respond #reply-title
+h4{margin-top:-6px;font-weight:900;color:#333;font-style:normal;padding:0}#page .comment-page-numbers{float:left;width:658px;margin:0
+0 30px 0;text-align:right;font-size:9px;border-bottom:1px solid #e1e1e1}#page .comment-page-numbers
+em{float:left;font-style:normal;font-weight:900;font-size:11px}#page .comment-page-numbers
+a{font-weight:900;padding:3px
+6px;margin:0
+4px;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/page.gif) repeat-x bottom left;border:1px
+solid #ccc;color:#666}#page .comment-page-numbers a:hover, #page .current-comment-page{padding:3px
+6px;color:#000;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/page2.gif) repeat-x top left;text-decoration:none;border:1px
+solid #999}#page #respond
+form{float:left;width:600px;padding:10px
+25px}#page #respond form
+p{padding:0
+0 5px}#page #respond form .left-form{float:left;width:230px}#page #respond form .right-form{float:left;width:370px}#page #respond form
+label{text-transform:uppercase;font-weight:900;font-size:10px}#page #respond form
+input{padding:3px;width:200px}#page #respond form input:focus, #page #respond form textarea:focus{border:1px
+solid #666}#page #respond form
+textarea{width:368px;height:133px;padding:5px}#page #respond form input#submit-comment{border:1px
+solid #ccc;float:right;background:#eee url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/button_bg_hover.png) repeat-x bottom left;width:80px;cursor:pointer}#page #respond .subscribe-to-comments
+input{border:0}#page
+.trackback{float:left;width:660px;margin-top:20px}#page .trackback
+ol{float:left;width:660px;margin-top:0px;padding:7px
+0 0 0;list-style:none}#page .trackback ol
+li{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/bullet.png) no-repeat top left;padding-left:20px;color:#333;margin-left:10px}#page .trackback ol li
+a{color:#333}.wp-pagenavi{float:left;width:100%;padding:15px
+0;margin:10px
+0;text-align:right;font-size:9px}.wp-pagenavi
+.pages{float:left;font-weight:900;font-size:11px}.wp-pagenavi
+a{font-weight:900;padding:3px
+6px;margin:0
+4px;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/page.gif) repeat-x bottom left;border:1px
+solid #ccc;color:#666}.wp-pagenavi .current, .wp-pagenavi a:hover{padding:3px
+6px;color:#000;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/page2.gif) repeat-x top left;text-decoration:none;border:1px
+solid #999;font-weight:900}.wp-pagenavi
+.current{margin:0
+4px}#categories{float:right;padding:0;margin-top:-35px;position:relative}#categories
+li{background-image:none;padding:0}#categories li span
+a{text-indent:-9999em;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/cat.png) no-repeat top left;width:145px;height:58px;float:left}#categories li span a:hover{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/cat2.png) no-repeat top left}.arrow{display:block}#categories li
+a{width:115px;display:block;color:#666}#categories li a:hover{text-decoration:none;color:#ac0000}#categories li
+ul{padding:9px;position:absolute;border:1px
+solid #ccc;background:#f7f7f7;list-style:none;width:125px;top:57px;left:0;display:none}#categories li
+li{padding:2px
+5px;border-bottom:1px solid #f7f7f7}#categories li:hover ul, #categories li li:hover ul, #categories li.sfhover ul, #categories li li.sfhover
+ul{display:block}#categories li:hover li a:hover{color:#d82b03}#content #recent-archive{width:660px}#content #recent-archive
+h4{padding:5px
+0}#content #recent-archive
+.post{width:660px;padding:0
+0 20px;border-bottom:1px solid #e7e7e7;margin-bottom:20px}#content #recent-archive .post
+.thumb{width:90px}#content #recent-archive .post .thumb a
+img{padding:4px}#content #recent-archive .post .post-excerpt{}#content #recent-archive .post .post-excerpt h2
+a{font-size:22px;line-height:26px}#content #recent-archive .post .post-excerpt h2 a:hover{text-decoration:none}#content #recent-archive .post .post-excerpt
+small.meta{margin:0
+0 10px;float:left;font-size:10px}#content #recent-archive .post .post-excerpt
+p{clear:left;padding:0}#content #recent-archive .post .post-excerpt .comment-cloud{float:right;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/comment-cloud.jpg) no-repeat top left;width:53px;height:24px;text-align:center;padding-top:7px;font:11px Georgia, "Times New Roman", Times, serif}#content #recent-archive
+h2.single{float:left;margin-bottom:20px;color:#ccc;font-size:30px}#gb_form_div{float:left;width:640px}#gb_form_div
+fieldset{border:0;float:left;width:640px;padding:0;margin:0
+0 15px}#gb_form_div fieldset
+label{color:#333;float:left;width:640px;font-size:10px;font-weight:900;text-transform:uppercase}#gb_form_div fieldset input, #gb_form_div fieldset textarea, #gb_form_div fieldset
+select{border:1px
+solid #ccc;padding:4px;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/page.gif) repeat-x bottom left;float:left;width:400px}#gb_form_div fieldset legend
+span{font-style:italic;color:#666}#gb_form_div fieldset
+input.button2{border:1px
+solid #ccc;padding:4px;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/page.gif) repeat-x bottom left;float:left}.author-page{float:left;width:628px;margin:-15px 0 20px;padding:15px;border:1px
+solid #ccc;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/heading-bg.gif) repeat-x top left;border-top:0}.author-page .author-left{float:left;width:90px}.author-page .author-right
+h3{margin-bottom:10px;padding:0}.author-page .author-right{float:left;width:523px;padding-left:15px}.author-page .author-right
+p{padding:0
+0 10px;font:12px/17px Tahoma, Arial, Helvetica, sans-serif}#page
+#reply{float:left;margin-top:10px;width:660px;background:#f7f7f7 url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/comment-bg.gif) repeat-x top left}#page #reply #reply-title{margin:-15px 0 0 0;position:relative;float:left;font-size:10px;color:#666;height:48px;width:660px;display:inline}#page #reply #reply-title
+h4{margin-top:-6px;font-weight:900;color:#333;font-style:normal;padding:0}#page .comment-page-numbers{float:left;width:660px;margin:0
+0 30px 0;text-align:right;font-size:9px;border-bottom:1px solid #e1e1e1}#page .comment-page-numbers
+em{float:left;font-style:normal;font-weight:900;font-size:11px}#page .comment-page-numbers
+a{font-weight:900;padding:3px
+6px;margin:0
+4px;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/page.gif) repeat-x bottom left;border:1px
+solid #ccc;color:#666}#page .comment-page-numbers a:hover, #page .current-comment-page{padding:3px
+6px;color:#000;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/page2.gif) repeat-x top left;text-decoration:none;border:1px
+solid #999}#page #reply
+form{float:left;width:600px;padding:10px
+25px}#page #reply form
+p{padding:0
+0 5px}#page #reply form .left-form{float:left;width:230px}#page #reply form .right-form{float:left;width:370px}#page #reply form
+label{text-transform:uppercase;font-weight:900;font-size:10px}#page #reply form
+input{padding:3px;width:200px}#page #reply form input:focus{border:1px
+solid #666}#page #reply form
+textarea{width:368px;height:133px;padding:5px}#page #reply form input#submit-comment{border:1px
+solid #ccc;float:right;background:#eee url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/button_bg_hover.png) repeat-x bottom left;width:80px;cursor:pointer}#comment-form{}#comment-form
+label{font:900 9px Tahoma, Arial, Helvetica, sans-serif;color:#333;text-transform:uppercase}#comment-form
+label.error{color:#f00}#comment-form input, #comment-form select, #comment-form
+textarea{border:1px
+solid #ccc;padding:5px;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/page2.gif) repeat-x top left;font-size:11px;display:block}#comment-form input:focus, #comment-form textarea:focus{border:1px
+solid #666}#featured{width:680px}#contentLeft{width:230px;float:left}#contentRight{width:450px;float:right;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/frame.jpg) no-repeat top right;position:relative;margin-top:-17px;height:287px}#control{position:absolute;top:46px;right:0;z-index:1;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/co.jpg) no-repeat top right;height:202px;width:7px}#control
+.prev{width:7px;height:7px;cursor:pointer;margin:0
+0 190px}#control
+.next{width:7px;cursor:pointer;height:7px}.showcaseTexts{width:250px;height:260px;position:relative;overflow:hidden}.showcaseTexts
+p{font:400 12px/19px "Droid Sans", Helvetica, Arial, sans-serif;padding-right:20px}.showcaseTexts
+ul{width:230px;height:250px;list-style:none}.showcaseTexts ul
+li{width:250px;padding-top:45px;height:200px;position:relative}.showcaseTexts ul li
+h2{padding-bottom:15px;padding-right:20px}.showcaseTexts ul li h2
+a{color:#000;font:900 19px/24px "Droid Sans",Helvetica,Arial,sans-serif}a.view{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/view.png) no-repeat top left;text-align:center;height:20px;width:122px;display:block;padding:5px
+2px;color:#000}.showcaseImages{width:400px;position:relative;margin:64px
+0 0 36px;overflow:hidden}.showcaseImages
+ul{width:400px;height:200px;list-style:none}.showcaseImages ul
+li{width:400px;height:200px}.showcaseImages ul li a
+img{width:400px;height:200px;border:0;padding:0}a img.no,img.no{border:0;padding:0}.post
+ul.menu{list-style:none;padding:0;background:#b7e7f7 url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/port-top.jpg) no-repeat top left;padding:20px}.port-bottom{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/port-bottom.jpg) no-repeat top left;padding:20px}.post ul.menu
+li{background-image:none;padding:0}.post ul.menu li a
+h3{padding:0;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/active.png) no-repeat top left;height:22px;padding:10px;font-size:14px;letter-spacing:0;line-height:22px;cursor:pointer;color:#999}.post ul.menu li a:hover
+h3{color:#333}.post ul.menu li a h3 span
+img{border:0;padding:0;position:absolute;top:13px;right:10px}.post ul.menu li a:hover{text-decoration:none}.post ul.menu li
+a.list{float:left;background-color:#fff;width:620px;display:inline;position:relative;margin-bottom:-1px}.ele{padding:10px;float:left;width:600px;background-color:#fff;cursor:default}.port-thumb{float:left;width:410px;margin:0
+10px 0 0}.port-desc{float:left;width:180px}.post .port-desc
+ul{padding:0}.post .ele a
+img{background-color:#f1f1f1;padding:5px;display:inline;cursor:pointer}.testimonial{margin:15px
+0;float:left;width:600px;text-align:right}.post .testimonial
+blockquote{padding:10px
+9px 10px 9px;background-color:#f1f1f1;border:1px
+solid #ccc;background-image:none;font-style:normal;line-height:22px;margin:0;text-align:left}.post ul.menu .ele ul
+li{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/task.png) no-repeat center right;color:#666}.post ul.menu .ele ul li:hover{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/task.png) no-repeat center right;color:#000}.p-left{float:left;width:480px;padding-right:20px}.p-left
+.right{display:inline;margin-right:20px}.p-left .pp-left{float:left;width:275px;border-right:1px solid #e1e1e1;border-top:1px solid #e1e1e1;padding:0
+19px 0 0;font:13px/21px georgia}.post .p-left .tut-img{background-color:#fff;border:0}.p-left .pp-left
+.testimonial{width:280px;padding:0;text-align:left;font-size:12px;line-height:18px}.test-bottom{font-size:9px}.p-left .pp-right{float:left;width:165px;padding:0
+0 0 20px;border-top:1px solid #e1e1e1}.post .p-left .pp-right
+ul{padding:10px
+0 0;margin:0}.post .p-left .pp-right ul
+li{font-size:11px;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/task.png) no-repeat top right;padding:0;width:150px}.post .pleft
+h3{padding:10px
+0 0}.p-right{float:left;width:140px;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/portfolio-sidebar.png) repeat-y top left}.post .p-right
+ul{list-style:none;padding:0;margin:0}.post .p-right ul
+li{background-image:none;font-size:11px;line-height:14px;border-bottom:1px solid #e1e1e1;padding:5px
+0 5px 20px}.post .p-right ul li
+a{color:#666}.post .p-right
+h3{font-size:14px;padding-left:20px;border-bottom:1px solid #e1e1e1}.dp-highlighter
+.dp-highlighter ol,
+.dp-highlighter ol li,
+.dp-highlighter ol li
+span{font-weight:normal;font-family:"Consolas","Monaco","Courier New",Courier,monospace !important;font-size:12px}.dp-highlighter{background-color:#fff;width:99%;overflow:auto;margin:18px
+0 18px 0 !important;padding-top:1px}.dp-highlighter ol,
+.dp-highlighter ol li,
+.dp-highlighter ol li
+span{margin:0;padding:0;border:none}.dp-highlighter a,
+.dp-highlighter a:hover{background:none;border:none;padding:0;margin:0}.dp-highlighter
+.bar{padding-left:45px}.dp-highlighter.collapsed .bar,
+.dp-highlighter.nogutter
+.bar{padding-left:0px}.post .dp-highlighter
+ol{list-style:decimal;background-color:#fff;margin:0px
+0px 1px 45px !important;padding:0px;color:#5C5C5C}.dp-highlighter.nogutter ol,
+.dp-highlighter.nogutter ol
+li{list-style:none !important;margin-left:0px !important}.dp-highlighter ol li,
+.dp-highlighter .columns
+div{list-style:decimal-leading-zero;list-style-position:outside !important;border-left:3px solid #6CE26C;background-color:#F8F8F8;color:#5C5C5C;padding:0
+3px 0 10px !important;line-height:14px;margin-bottom:6px}.dp-highlighter.nogutter ol li,
+.dp-highlighter.nogutter .columns
+div{border:0}.dp-highlighter
+.columns{background-color:#F8F8F8;color:gray;overflow:hidden;width:100%}.dp-highlighter .columns
+div{padding-bottom:5px}.dp-highlighter ol
+li.alt{background-color:#FFF;color:inherit}.dp-highlighter ol li
+span{color:black;background-color:inherit}.dp-highlighter.collapsed
+ol{margin:0px}.dp-highlighter.collapsed ol
+li{display:none}.dp-highlighter.printing{border:none}.dp-highlighter.printing
+.tools{display:none !important}.dp-highlighter.printing
+li{display:list-item !important}.dp-highlighter
+.tools{padding:3px
+8px 3px 10px;font:9px Verdana, Geneva, Arial, Helvetica, sans-serif;color:silver;background-color:#f8f8f8;padding-bottom:10px;border-left:3px solid #6CE26C}.dp-highlighter.nogutter
+.tools{border-left:0}.dp-highlighter.collapsed
+.tools{border-bottom:0}.dp-highlighter .tools
+a{font-size:9px;color:#a0a0a0;background-color:inherit;text-decoration:none;margin-right:10px}.dp-highlighter .tools a:hover{color:red;background-color:inherit;text-decoration:underline}.dp-about{background-color:#fff;color:#333;margin:0px;padding:0px}.dp-about
+table{width:100%;height:100%;font-size:11px;font-family:Tahoma,Verdana,Arial,sans-serif !important}.dp-about
+td{padding:10px;vertical-align:top}.dp-about
+.copy{border-bottom:1px solid #ACA899;height:95%}.dp-about
+.title{color:red;background-color:inherit;font-weight:bold}.dp-about
+.para{margin:0
+0 4px 0}.dp-about
+.footer{background-color:#ECEADB;color:#333;border-top:1px solid #fff;text-align:right}.dp-about
+.close{font-size:11px;font-family:Tahoma,Verdana,Arial,sans-serif !important;background-color:#ECEADB;color:#333;width:60px;height:22px}.dp-highlighter .comment, .dp-highlighter
+.comments{color:#008200;background-color:inherit}.dp-highlighter
+.string{color:blue;background-color:inherit}.dp-highlighter
+.keyword{color:#069;font-weight:bold;background-color:inherit}.dp-highlighter
+.preprocessor{color:gray;background-color:inherit}#contact-form{font:10px Tahoma, Arial, Helvetica, sans-serif}#contact-form
+label{text-transform:uppercase;color:#434343;display:block;font-weight:900}#contact-form
+p{padding:0
+0 10px}#contact-form input, #contact-form select, #contact-form
+textarea{border:1px
+solid #ccc;padding:6px
+8px;color:#333;background-color:#f1f1f1}#contact-form select
+option{padding:0
+10px}#contact-form input:focus, #contact-form textarea:focus, #contact-form select:focus{border:1px
+solid #222;background-color:#fff}#contact-form
+input.error{border:1px
+solid #000}#contact-form
+.panel{margin:5px
+0 15px}#contact-form input, #contact-form
+textarea{width:400px}#contact-form
+input#quot{width:auto;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/page.gif) repeat-x bottom left;border:1px
+solid #ccc;color:#434343}#contact-form input#quot:hover{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/page2.gif) repeat-x top left;border:1px
+solid #999;color:#222}span.form-error-message{display:block;padding:2px
+0;color:red}.widget-panel{display:block;color:#434343;background:#fff;margin:5px;border:7px
+solid #333;padding:10px}.widget-panel .panel-header{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/page2.gif) repeat-x top left;color:#333;border-bottom:1px solid #ccc;padding:5px
+10px}.widget-panel .panel-close, .widget-panel .panel-min{float:right;font-weight:bold}.widget-panel .panel-title{font-size:13px;font-weight:bold;display:block;text-align:left;cursor:pointer}.widget-panel .panel-content-container{padding:20px;background:#fff}.widget-panel
+input{border:1px
+solid #ccc;padding:8px;color:#333;display:block;width:95%}.widget-panel input.cancel-button, .widget-panel input.submit-button{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/page.gif) repeat-x bottom left;border:1px
+solid #ccc;color:#434343;display:inline;width:auto;margin:10px
+5px 0 0}.widget-panel input.cancel-button:hover, .widget-panel input.submit-button:hover{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/page2.gif) repeat-x top left;border:1px
+solid #999;color:#222}.widget-panel
+.footer{text-align:right}.widget-panel .footer .button
+a{border-bottom:1px solid #c93232;color:#4b0707;background-color:#f1aaaa}.widget-panel .footer .button a:hover{color:#fff;background-color:#c93232}.widget-panel .footer
+a{padding:0
+4px;font:400 10px Tahoma;text-transform:uppercase;border-bottom:1px solid #92c40c;color:#455d04;background-color:#d7f1aa;margin-left:10px}.widget-panel .footer a:hover{color:#fff;background-color:#92c40c}#editable_edit_box_contact_task
+input{}.widget-activity{height:100%;left:0px;position:fixed;top:0px;width:100%;display:none;z-index:1}*{margin:0;padding:0}body{color:#434343;font:13px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/bg.gif) repeat-x top left}h1,h2,h3,h4,h5,h6{font-family:Helvetica,Arial,Sans-serif;font-weight:900}a{color:#d82b03;text-decoration:none;outline:none}a:hover{color:#d82b03;text-decoration:underline}input,select,textarea{border:1px
+solid #ccc;font:400 12px/18px Tahoma, Arial, Helvetica, sans-serif;color:#434343}img, a
+img{}p{padding:0
+0 2em}#page p
+a{text-decoration:underline;transition:color .3s linear;-webkit-transition:color .3s linear}#page p a:hover{color:#6790ed}#page p, #page
+ul{font:13px/20px "Varela Round", Helvetica, Arial, sans-serif;color:#686A6C}#page
+strong{color:#222;background-color:#ffffe3;padding:1px
+4px;border-radius:2px;-webkit-border-radius:2px;-moz-border-radius:2px}.inputerror{border:1px
+solid #333}#submiterror{color:#900;font-weight:900;border:1px
+solid #ccc;background-color:#fff;padding:2px
+4px}.clear{clear:both}.left,.float{float:left}img.float, a
+img.float{margin:0
+20px 0 0}.right{float:right}a.wix
+img{margin-bottom:10px;border:0;padding:0}.wrapper{width:960px;margin:0
+auto}.post
+ul{padding:0
+18px 18px 28px;list-style:none}.post
+ol{padding:0
+18px 18px}.post ul
+li{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/bullet.png) no-repeat top left;padding-left:20px;margin-bottom:5px}.post ol
+li{}h1{font-size:30px}.post
+h1{padding:10px
+0 10px;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/page2.png) repeat-x scroll left top;border-top:1px solid #ccc}h2{font-size:18px}h2.single3{font-size:38px;color:#000;line-height:40px;letter-spacing:-1px;padding-right:120px}h2.single{font-size:30px;color:#000;line-height:30px;margin-bottom:20px}h2.single2{font-size:30px;color:#000;line-height:30px;padding-bottom:20px;margin-top:20px}h2
+a{color:#333}h2 a:hover{color:#000}h3{font-size:18px}.post
+h3{font:24px "Varela Round", Helvetica, Arial, sans-serif;color:#494545;font-weight:400;padding:30px
+0 7px;clear:both}h4{font-size:12px;font-family:"Droid Serif",Georgia,"Times New Roman",Times,serif;font-weight:900}.post
+h4{font-weight:900;padding:25px
+0 5px;font-size:14px;color:#000}.section-title{font-style:normal;font-size:14px;font-weight:900;color:#555}.wp-smiley{border:0;padding:0}.heading{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/heading-bg.png) repeat-x top left}.cap{text-transform:uppercase}small{font-size:9px;color:#8e8e8e}.box{border:1px
+solid #ccc;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/postmeta-bg.png) repeat-x top left}.title-img{border:0;padding:0
+8px 0 0}.tut-img{border:1px
+solid #CECFD0;background-color:#f0f0f0;padding:8px
+0;text-align:center;clear:both;margin:5px
+0 10px}.tut-img a img, .tut-img
+img{border:1px
+solid #999;background-color:#fff;padding:0}.tut-img a:hover
+img{border:1px
+solid #666}.interact{padding:15px
+10px;float:left;margin:0
+0 15px;width:638px;text-align:center;background-color:#ebebeb;border:1px
+solid #ccc}.interact a
+img{border:0;padding:0;margin:0
+40px}div.web{float:left;width:660px;margin:0
+0 20px;padding-bottom:20px;border-bottom:1px solid #e1e1e1}div.web
+p{margin-left:180px;padding:0
+0 10px 0}h4.web{font-size:22px;line-height:18px;font-weight:400;padding:0
+0 20px;letter-spacing:-1px}a.web{float:left;padding:2px
+8px;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/page.png) repeat-x bottom left;border:1px
+solid #ccc;color:#666}a.web:hover{color:#000;text-decoration:none;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/page2.png) repeat-x top left}span.web{float:left;width:100%;margin-bottom:12px}code{font:11px/14px "Courier New",Courier,monospace}blockquote{padding:20px;margin:20px
+0;cursor:default;border-left:1px solid #ccc;background-color:#f7f7f7;font:14px/22px "Courier New",Courier,monospace}.post-ratings-loading{display:none}.gallery-thumb{float:left;margin:0
+0 15px 0;width:660px;border-bottom:1px solid #ccc;padding:0
+0 15px}.gallery-thumb .comment-cloud{float:right;background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/comment-cloud.jpg) no-repeat top left;width:53px;height:24px;text-align:center;padding-top:7px;font:11px Georgia,"Times New Roman",Times,serif}.gallery-desc{float:left;width:235px;padding:0
+0 0 15px}.gallery-desc h4
+a{font:400 18px Georgia,"Times New Roman",Times,serif;font-style:italic;color:#333}.post-ratings{margin-top:20px;clear:both}.post-ratings img, .post-ratings a
+img{border:0;padding:0;margin:0
+2px 0 0;display:inline}.post-ratings
+em{font:9px Tahoma,Arial,Helvetica,sans-serif;color:#666}.exabytes{clear:both;padding:10px
+0}.google{clear:both;padding:0
+0 25px 0}#tabs{margin-top:10px;border:1px
+solid #ccc;background-color:#fff}#tabs
+ul{list-style:none}.ui-tabs-hide{display:none}#tabs .sidetab-head{padding:5px
+0;text-align:center;background-color:#E5E5E5;border-bottom:0}#tabs .sidetab-head
+li{display:inline;font-size:13px}#tabs .sidetab-head li
+a{padding:4px
+30px;font-weight:900;color:#666;text-transform:uppercase}#tabs .sidetab-head li a:hover{text-decoration:none}#tabs .sidetab-head li.ui-state-active
+a{color:#000}#tabs
+.sidetabdiv{}#tabs .sidetabdiv
+li{}#tabs .sidetabdiv li
+a{padding:7px
+15px;color:#666;text-decoration:none;display:block;background-color:#f7f7f7;text-transform:lowercase;border-bottom:1px solid #e7e7e7}#tabs .sidetabdiv li a:hover{background-color:#fff;color:#000}#tabs2{margin-top:10px}#tabs2
+ul{list-style:none}#tabs2 .sidetab-head{padding:5px
+0;text-align:center}#tabs2 .sidetab-head
+li{display:inline}#tabs2 .sidetab-head li
+a{padding:4px
+25px;font-weight:900;font-size:13px;color:#666;text-transform:uppercase}#tabs2 .sidetab-head li a:hover{text-decoration:none}#tabs2 .sidetab-head li.ui-state-active
+a{color:#000}#tabs2
+.sidetabdiv{border:1px
+solid #ccc;background-color:#fff;margin:0
+10px}#tabs2 .sidetabdiv
+li{}#tabs2 .sidetabdiv li
+a{padding:7px
+15px;color:#666;text-decoration:none;display:block;text-transform:lowercase;line-height:16px}#tabs2 .sidetabdiv li a:hover{color:#000;background-color:#f5f5f5}#sidebar
+.bsap{float:left;width:270px}#sidebar .bsap
+a{float:left;display:inline;display:inline}#sidebar .bsap
+a.even{margin:5px
+0 5px 5px}#sidebar .side-section .bsap a
+img{margin:0}#dribbble{background:url(http://kailoon.com/wp-content/themes/LoonDesignV4/images/dribbble.png) no-repeat 0 -3px}.side-section .dribbble a
+img{display:block;float:none;margin:0
+auto;padding:4px;border:1px
+solid #f1f1f1;background-color:#fff}.side-section .dribbble a:hover
+img{border:1px
+solid #333}.dribbbles
+li{text-align:center;margin:0
+auto 15px}.dribbbles{margin-top:10px;list-style:none;line-height:14px}#googleplus{float:left}.tuts{display:block;margin:40px
+auto 60px;text-align:center}.tuts
+img{box-shadow:0 1px 1px rgba(0,0,0,0.3);-webkit-transition:all .3s ease-in-out}.tuts:hover
+img{box-shadow:0 4px 10px rgba(0,0,0,0.2)}.post-ratings{width:100%;filter:alpha(opacity=100);-moz-opacity:1;opacity:1}.post-ratings-loading{display:none;height:16px;text-align:left}.post-ratings-image{border:0px}.post-ratings IMG, .post-ratings-loading IMG, .post-ratings-image
+IMG{border:0px;padding:0px;margin:0px}.post-ratings-text{}.post-ratings-comment-author{font-weight:normal;font-style:italic}#lbOverlay{position:fixed;z-index:9999;left:0;top:0;width:100%;height:100%;background-color:#000;cursor:pointer}#lbCenter,#lbBottomContainer{position:absolute;z-index:9999;overflow:hidden;background-color:#fff}.lbLoading{background:#fff url(http://kailoon.com/wp-content/plugins/wp-slimbox2/css/images/default/loading.gif) no-repeat center}#lbImage{position:absolute;left:0;top:0;border:10px
+solid #fff;background-repeat:no-repeat}#lbPrevLink,#lbNextLink{display:block;position:absolute;top:0;width:50%;outline:none}#lbPrevLink{background:transparent no-repeat 0 15%;left:0}#lbNextLink{background:transparent no-repeat 100% 15%;right:0}#lbBottom{font-family:Verdana,Arial,Geneva,Helvetica,sans-serif;font-size:10px;color:#666;line-height:1.4em;text-align:left;border:10px
+solid #fff;border-top-style:none}#lbCloseLink{display:block;float:right;width:66px;height:22px;margin:5px
+0;outline:none}#lbCaption,#lbNumber{margin-right:71px}#lbCaption{font-weight:bold}.locktross{display:none}.lotsensurrt{display:none}
